@@ -7,7 +7,11 @@
 
 ---
 
-This repository contains a program for visualizing EMG (Electromyography) and angle data using PyQtGraph. The program allows users to collect and visualize real-time data from multiple channels. The program utilizes PyQtGraph to create a graphical user interface for real-time data visualization. The Graph class handles the graph plotting and data processing. The main method collects and saves the data, while the timing method controls the timing of data collection using keyboard inputs. The collected data is stored as numpy arrays in separate files. The naming convention for the files is {Number}_{index}.npy, where {Number} is the input number provided by the user, and {index} is the index of the data set.
+- This repository contains a program for visualizing EMG (Electromyography) and angle data using PyQtGraph. 
+- The program allows users to collect and visualize real-time data from multiple channels. 
+- The main method collects and saves the data, while the timing method controls the timing of data collection using keyboard inputs.
+- The collected data is stored as numpy arrays in separate files.
+- The naming convention for the files is {Number}_{index}.npy, where {Number} is the input number provided by the user, and {index} is the index of the data set.
 
 ---
 <p align="center">
