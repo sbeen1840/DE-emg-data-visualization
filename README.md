@@ -23,7 +23,18 @@
 This program is designed to visualize the data received by a PC through the UART feature of ATmega128. Additionaly, the data is in the form of digital signals, which have been converted from analog using AD7606.
 
 ---
+<p align="center">
+	<img src="https://github.com/sbeen1840/DE-signal-visualization/assets/108644811/fc7e2101-d382-4ef7-840b-f4da7f2d9eab" alt="diagram" />
+</p>
 
+---
+
+The image above depicts the overall structure of the program for reference. 
+
+The link for socket programming is as follows: [DE-socket-connect](https://github.com/sbeen1840/DE-socket-connect)
+
+
+---
 
 ## 👉Requirements
 ```
